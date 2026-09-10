@@ -8,7 +8,7 @@
 
 </div>
 
-Data professional with experience across data science, business analytics, and automation in industry and research settings. Skilled in Python, SQL, and LLM pipeline development — with a track record of building dashboards, automation workflows, and machine learning models that improve operational efficiency and decision-making.
+Data scientist with an M.Sc. in Business Informatics (Data Science & Operations Research, University of Mannheim) and a B.Sc. in Industrial Engineering. Industry experience in manufacturing, SaaS, and banking: time-series forecasting in Databricks, LLM-based information extraction, KPI dashboards, and API-driven Python automation. Combines machine learning with optimization to support operational decisions.
 
 ---
 
