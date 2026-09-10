@@ -33,46 +33,19 @@ Process discovery and conformance checking on 100,000+ real event-log cases usin
 
 ## 🛠️ Skills
 
-**Programming & Querying**<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL%2FPL--SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Programming & Querying:** Python, R, SQL / PL-SQL, PySpark, JavaScript
 
-**Machine Learning & AI**<br>
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![NetworkX](https://img.shields.io/badge/-NetworkX-1A1A1A?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLM%20Pipelines-412991?style=flat-square&logo=openai&logoColor=white)
+**Machine Learning & AI:** scikit-learn, TensorFlow/Keras, PyTorch, sktime, Pandas, NumPy, NetworkX, LLM pipeline development (prompt design, structured JSON extraction)
 
-**Data & Visualisation**<br>
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly%2FDash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**Data & Visualisation:** Databricks, Power BI, Tableau, Dash, Plotly, Microsoft Office Suite
 
-**Automation & Engineering**<br>
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
-![CPLEX](https://img.shields.io/badge/-IBM%20ILOG%20CPLEX-052FAD?style=flat-square)
-![Gurobi](https://img.shields.io/badge/-Gurobi-EE3524?style=flat-square)
+**Automation & Engineering:** Azure DevOps/Pipelines, Power Automate, REST APIs, IBM ILOG CPLEX, Gurobi
 
-**Process & Optimization**<br>
-![Celonis](https://img.shields.io/badge/-Celonis-1522FF?style=flat-square)
-![BPMN](https://img.shields.io/badge/-BPMN-333333?style=flat-square)
-![Optimization](https://img.shields.io/badge/-Linear%2FInteger%20Programming-333333?style=flat-square)
+**Process & Optimization:** Celonis, BPMN, linear/integer programming, heuristics
 
-**Other**<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**Other:** Git/GitHub, Jupyter Notebooks
 
-**Languages:** Turkish (native) · English (full professional proficiency) · German (A2 — in progress)
+**Languages:** Turkish (native), English (full professional proficiency), German (A2 — in progress)
 
 ---
 
@@ -106,7 +79,8 @@ CGPA 3.16/4.00, High Honor in final two semesters. Focus: Operations Research & 
 
 ## 📫 Connect with me
 
-<a href="mailto:deliktascagan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/cagan-yigit-deliktas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+📧 [deliktascagan@gmail.com](mailto:deliktascagan@gmail.com)
+
+💼 [linkedin.com/in/cagan-yigit-deliktas](https://linkedin.com/in/cagan-yigit-deliktas)
 
 📍 Mannheim, Germany
