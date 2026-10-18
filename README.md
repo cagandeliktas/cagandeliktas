@@ -8,7 +8,7 @@
 
 </div>
 
-Data scientist with an M.Sc. in Business Informatics (Data Science & Operations Research, University of Mannheim) and a B.Sc. in Industrial Engineering. Industry experience in manufacturing, SaaS, and banking: time-series forecasting in Databricks, LLM-based information extraction, KPI dashboards, and API-driven Python automation. Combines machine learning with optimization to support operational decisions.
+Data scientist with an M.Sc. in Business Informatics (Data Science & Operations Research, University of Mannheim) and a B.Sc. in Industrial Engineering (Bilkent University). My main area of interest lies in utilizing data science and operations research methods to enhance and optimize business processes.
 
 ---
 
@@ -50,7 +50,7 @@ Process discovery and conformance checking on 100,000+ real event-log cases usin
 
 | Role | Company | Period |
 |------|---------|--------|
-| Automation working student | osapiens, Mannheim | Oct 2025 – present |
+| Automation working student | osapiens, Mannheim | Oct 2025 – Sep 2026 |
 | Data science working student | Heidelberg Materials, Heidelberg | Jan 2024 – Dec 2024 |
 | Assistant business analyst | Yapı Kredi Teknoloji, Kocaeli | Oct 2022 – Jul 2023 |
 | Senior year project engineer | Arçelik / Beko, Tekirdağ | Oct 2021 – Jun 2022 |
@@ -59,7 +59,7 @@ Process discovery and conformance checking on 100,000+ real event-log cases usin
 
 ## 🎓 Education
 
-**M.Sc. Business Informatics** — University of Mannheim *(Sep 2023 – Aug 2026)*
+**M.Sc. Business Informatics** (Grade: 1.9, German system) — University of Mannheim *(Sep 2023 – Aug 2026)*
 Focus: Data Science & Operations Research. Coursework: Web Mining (grade 1.0), Text Analytics, Machine Learning, Data Mining I & II, Process Management & Analytics (Celonis), Inventory Management, Service Operations Management, Marketing Analytics.
 
 **B.S. Industrial Engineering** — Bilkent University, Ankara *(Sep 2017 – Jun 2022)*
