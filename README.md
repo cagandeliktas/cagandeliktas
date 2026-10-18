@@ -21,7 +21,7 @@ End-to-end LLM pipeline on a locally deployed, 4-bit quantized Llama 3.1 8B to e
 Bayesian media mix model in PyMC estimating the revenue contribution and ROAS of 7 paid channels from 104 weeks of data. Revenue is modelled as a baseline (trend, yearly seasonality, Cyber Week) plus per-channel effects with adstock to capture delayed spend impact. Paid media drives about 39% of revenue, with short carry-over and the highest ROAS on ch5 (about 1.22). Forecast error on 16 unseen weeks is 11.5%, versus 24.7% for a seasonal naive baseline.
 
 **[Web_Mining_Project](https://github.com/cagandeliktas/Web_Mining_Project)**
-Content-based two-tower neural network (TensorFlow/Keras) for user–product affinity and rating prediction on 1M+ Sephora reviews. A user subnetwork (review statistics, skin tone, TF-IDF review text compressed via TruncatedSVD) and a product subnetwork (price, ratings, category, brand and availability features) each learn an embedding, and their dot product gives the compatibility score. Achieved the lowest rating-prediction error (RMSE) of seven models compared, including SVD matrix factorisation, collaborative filtering, and simple content-based baselines.
+Two-tower neural recommender in PyTorch for user–product rating prediction on 1M+ Sephora reviews. A user subnetwork (review statistics, skin tone, TF-IDF review text compressed via TruncatedSVD) and a product subnetwork (price, ratings, category, brand and availability features) each learn an embedding, combined by dot product. Uses a time-based split and leakage-free features; an offline A/B comparison with bootstrap tests showed the lowest RMSE of seven methods (1.026 vs. 1.042 for the best baseline). The project also includes SVD matrix factorisation, collaborative filtering, and content-based baselines. Built dbt models on Snowflake, a FastAPI prediction API, and GitHub Actions CI with 90 pytest tests.
 
 **Social-Networks-LLM-Project**
 Team research project evaluating how well LLMs (Llama 3.1/3.3, Gemma 3, Mistral) can generate realistic social networks. Built the core Python codebase — generation pipeline, k-core/LCC/clique community sampling, and graph-metric benchmarking against real Pokec and Bluesky networks — plus API rate-limit handling via key rotation. Grade: 1.0.
@@ -36,19 +36,13 @@ Process discovery and conformance checking on 100,000+ real event-log cases usin
 
 ## 🛠️ Skills
 
-**Programming & Querying:** Python, R, SQL / PL-SQL, PySpark, JavaScript
+**Programming:** Python, SQL, R, PySpark, JavaScript
 
-**Machine Learning & AI:** scikit-learn, TensorFlow/Keras, PyTorch, sktime, Pandas, NumPy, NetworkX, LLM pipeline development (prompt design, structured JSON extraction)
+**ML & AI:** scikit-learn, PyTorch, TensorFlow/Keras, sktime, pandas, NumPy, NetworkX
 
-**Data & Visualisation:** Databricks, Power BI, Tableau, Dash, Plotly, Microsoft Office Suite
+**Data, BI & Engineering:** Databricks, Power BI, Power Automate, Excel, Tableau, Dash, Plotly, Celonis, Azure DevOps Pipelines, Git/GitHub, REST APIs, IBM ILOG CPLEX, Gurobi, BPMN, Snowflake, dbt
 
-**Automation & Engineering:** Azure DevOps/Pipelines, Power Automate, REST APIs, IBM ILOG CPLEX, Gurobi
-
-**Process & Optimization:** Celonis, BPMN, linear/integer programming, heuristics
-
-**Other:** Git/GitHub, Jupyter Notebooks
-
-**Languages:** Turkish (native), English (full professional proficiency), German (A2 — in progress)
+**Languages:** Turkish (native), English (full professional proficiency), German (A2, in progress)
 
 ---
 
