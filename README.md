@@ -17,8 +17,11 @@ Data scientist with an M.Sc. in Business Informatics (Data Science & Operations 
 **[Master-thesis-Cagan](https://github.com/cagandeliktas/Master-thesis-Cagan)**
 End-to-end LLM pipeline on a locally deployed, 4-bit quantized Llama 3.1 8B to extract clinical features (lactate, shock, coma) from 1,618 MIMIC-IV cardiac-arrest discharge summaries via keyword filtering, chunk-level prompting, and structured JSON extraction. Reached presence-detection F1 of 0.89–0.98 against manual annotations and validated extracted features against a leakage-aware logistic regression mortality model trained on first-24-hour ICU data (out-of-fold AUROC 0.78).
 
+**[Bayesian-MMM](https://github.com/cagandeliktas/Bayesian-MMM)**
+Bayesian media mix model in PyMC estimating the revenue contribution and ROAS of 7 paid channels from 104 weeks of data. Revenue is modelled as a baseline (trend, yearly seasonality, Cyber Week) plus per-channel effects with adstock to capture delayed spend impact. Paid media drives about 39% of revenue, with short carry-over and the highest ROAS on ch5 (about 1.22). Forecast error on 16 unseen weeks is 11.5%, versus 24.7% for a seasonal naive baseline.
+
 **[Web_Mining_Project](https://github.com/cagandeliktas/Web_Mining_Project)**
-Two-tower neural network (TensorFlow/Keras) for user–product affinity prediction on 1M+ Sephora reviews, combining product metadata with TF-IDF review features (TruncatedSVD). Achieved the lowest rating-prediction error (RMSE) of seven models compared, including matrix factorisation and collaborative filtering baselines.
+Content-based two-tower neural network (TensorFlow/Keras) for user–product affinity and rating prediction on 1M+ Sephora reviews. A user subnetwork (review statistics, skin tone, TF-IDF review text compressed via TruncatedSVD) and a product subnetwork (price, ratings, category, brand and availability features) each learn an embedding, and their dot product gives the compatibility score. Achieved the lowest rating-prediction error (RMSE) of seven models compared, including SVD matrix factorisation, collaborative filtering, and simple content-based baselines.
 
 **Social-Networks-LLM-Project**
 Team research project evaluating how well LLMs (Llama 3.1/3.3, Gemma 3, Mistral) can generate realistic social networks. Built the core Python codebase — generation pipeline, k-core/LCC/clique community sampling, and graph-metric benchmarking against real Pokec and Bluesky networks — plus API rate-limit handling via key rotation. Grade: 1.0.
